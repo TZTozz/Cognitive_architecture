@@ -29,6 +29,6 @@ strategy library, sim-to-real validation report for perforated objects
 1. Open Isaac Sim
 2. File -> Open -> usd -> robots -> mir250_cabinet_ur5e_2fg7_test.usd
 3. Window -> Script Editor
-4. Copy and paste the Main.py for the simulation
+4. Copy and paste the Main.py for run the simulation via (Ctrl+Enter)
 
 -> ADD in the modules folder your scripts and into config folder the configurations. 
